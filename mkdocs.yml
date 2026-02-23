@@ -1,5 +1,6 @@
 site_name: Starches Documentation
 site_description: Documentation for publishing Arches cultural heritage data as static websites
+site_url: https://flaxandteal.github.io/starches-docs/
 repo_url: https://github.com/flaxandteal/starches-docs
 
 theme:
